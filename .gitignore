@@ -1,0 +1,10 @@
+/build/
+
+/external/
+
+*.d
+
+.vscode/
+.idea/
+
+.scannerwork/
