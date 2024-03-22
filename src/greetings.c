@@ -2,4 +2,6 @@
 #include <stdio.h>
 
 void greetings()
-{    printf("Hello from another file!\n");}
+{
+    printf("Hello from another file!\n");
+}
