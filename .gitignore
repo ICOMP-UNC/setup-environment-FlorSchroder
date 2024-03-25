@@ -27,3 +27,9 @@
 
 # Dont track sonnar files
 .scannerwork/
+
+build.ninja
+
+.clang.format
+
+
